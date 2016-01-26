@@ -1,2 +1,2 @@
 # MusicNeuralNets
-Neural Networks for Music Composition
+Algorithmic music composition through Markov Chains and Neural Networks
